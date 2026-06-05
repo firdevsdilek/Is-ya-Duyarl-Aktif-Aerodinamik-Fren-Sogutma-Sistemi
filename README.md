@@ -35,5 +35,44 @@ Mekanik tasarım aşamasında CFD simülasyonları ile farklı hız ve kanatçı
 
 * FMEA analizi
 * Maliyet modelleme
+
+
+
+# Heat-Sensitive Active Aerodynamic Brake Cooling System
+Project Summary
+
+This project involves the development of a Heat-Sensitive Active Aerodynamic Brake Cooling System aimed at ensuring the thermal safety of brake discs in electric vehicles and improving vehicle range. The system dynamically adjusts the active flap angle based on real-time temperature data from the brake disc, optimizing the balance between cooling performance and aerodynamic drag.
+
+The originality of the project lies in integrating thermal analysis, intelligent control software, and economic modeling within a single system. In the software layer, a hybrid architecture combining PID and Fuzzy Logic controllers is used. The parameters are automatically optimized, and the system is designed to operate on a 10 ms real-time control loop.
+
+In the mechanical design phase, CFD simulations are used to analyze heat dissipation performance under different vehicle speeds and flap angles. From an industrial engineering perspective, FMEA, cost analysis, and break-even point evaluations are conducted to assess the system’s commercial feasibility.
+
+Objectives
+To improve the thermal safety of brake systems in electric vehicles
+To enhance energy efficiency and vehicle range
+To develop real-time intelligent control algorithms
+To produce a prototype applicable to domestic electric vehicles
+To create technical groundwork for academic publications and utility model applications
+Team Structure
+
+Computer Engineering
+
+Control algorithms (PID + Fuzzy Logic)
+Software development
+Sensor data processing
+Real-time control system
+
+Mechanical Engineering
+
+Brake system design
+CFD and thermal analysis
+Active flap mechanism
+
+Industrial Engineering
+
+FMEA analysis
+Cost modeling
+Break-even analysis
+Commercial sustainability studies
 * Başabaş noktası analizi
 * Ticari sürdürülebilirlik çalışmaları
